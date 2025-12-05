@@ -1,4 +1,4 @@
-# Local variable for file conntent
+# Local variable for file content
 locals {
   app_code = <<EOT
 console.log("Hello from Terraform-created web app!");
